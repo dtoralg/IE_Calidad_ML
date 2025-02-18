@@ -1,5 +1,6 @@
 # Iniciativas Emprendedoras: Ejercicios de Python para Machine Learning y Calidad
 
+
 Bienvenido al repositorio de **Iniciativas Emprendedoras**. Aquí encontrarás todos los ejercicios en Python (presentados en notebooks de Google Colab) diseñados para profundizar en los fundamentos de Machine Learning, Calidad en la Industria y Preparación y Análisis de Datos. Este repositorio incluye ejercicios para cada team y un sistema de corrección automatizado con GitHub Actions.
 
 ---
