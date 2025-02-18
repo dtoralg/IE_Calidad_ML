@@ -32,8 +32,25 @@ Este repositorio está orientado a proporcionar ejercicios prácticos para la fo
 
 ## Estructura del Repositorio
 
+├── README.md             # Documentación principal del repositorio.
+├── LICENSE               # Archivo de licencia (por ejemplo, MIT).
+├── ejercicios/           # Notebooks generales de ejercicios.
+│   ├── Ejercicio_1.ipynb
+│   ├── Ejercicio_2.ipynb
+│   └── Ejercicio_3.ipynb
+├── equipos/              # Ejercicios o material personalizado para cada team.
+│   ├── team1/
+│   │   ├── Ejercicio_1_Team1.ipynb
+│   │   └── Ejercicio_2_Team1.ipynb
+│   └── team2/
+│       ├── Ejercicio_1_Team2.ipynb
+│       └── Ejercicio_2_Team2.ipynb
+├── tests/                # Scripts de testing y validación automatizada.
+│   └── test_grade.py
+└── .github/              # Configuración de GitHub Actions.
+    └── workflows/
+        └── grade.yml
 
-├── ejercicios/ │ ├── Ejercicio_1_Extraccion_Integracion.ipynb │ ├── Ejercicio_2_Limpieza_Validacion.ipynb │ └── Ejercicio_3_Preprocesamiento_Modelado.ipynb ├── teams/ │ ├── team1/ │ │ └── ejercicios_colab_team1.ipynb │ └── team2/ │ └── ejercicios_colab_team2.ipynb ├── tests/ │ └── test_grade.py ├── .github/ │ └── workflows/ │ └── grade.yml └── README.md
 
 
 - **`ejercicios/`**: Contiene los notebooks principales con los ejercicios.
