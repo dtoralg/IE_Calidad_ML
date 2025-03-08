@@ -1,0 +1,11 @@
+Dataset,Nuevas Filas,Cols,Valores Faltantes (%),Duplicados,Outliers Añadidos,Target Desbalanceado,Columnas Numéricas,Columnas Categóricas,Categoría Dominante
+Juguetes,12274,7,3.51,327,Sí,No,3,4,Tela (20.34%)
+Cosmeticos,10909,7,3.79,421,Sí,No,4,3,Perfume (20.50%)
+Equipos_medicos,12293,7,3.24,556,Sí,No,5,2,Monitor (20.93%)
+Automotriz,10861,7,3.19,398,Sí,No,5,2,Rechazado (34.33%)
+Bebidas,10966,7,3.11,384,Sí,No,6,1,Media (25.41%)
+Aeroespacial,8289,8,3.69,237,Sí,No,5,3,Fuselaje (20.68%)
+Envases,11210,7,2.75,411,Sí,No,6,1,Sí (33.87%)
+Chips,10000,7,0.0,0,Sí,No,6,1,Estándar (59.63%)
+Electronicos,9180,8,1.27,0,Sí,No,6,2,Smartphone (25.53%)
+Agricultura,6120,8,1.26,118,Sí,Sí,5,3,Fruta (26.08%)
