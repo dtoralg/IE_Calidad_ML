@@ -1,4 +1,4 @@
-# Iniciativas Empresariales
+# Iniciativas Empresariales - Mejora en la monitorización de Calidad aplicando Machine Learning en procesos industriales
 
 
 Bienvenido al repositorio del curso **Mejora en la monitorización de Calidad aplicando Machine Learning en procesos industriales**. Aquí encontrarás todos los ejercicios en Python (presentados en notebooks de Google Colab) diseñados para profundizar en los fundamentos de Machine Learning, Calidad en la Industria y Preparación y Análisis de Datos. Este repositorio incluye ejercicios para cada tema asi como un formulario general y una guía de errores comunes al programar este tipo de modelos.
