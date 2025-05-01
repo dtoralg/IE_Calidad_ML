@@ -56,7 +56,10 @@ Este repositorio está orientado a proporcionar ejercicios prácticos para el cu
 
 Este proyecto está bajo licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
 No está permitido su uso con fines comerciales.
+
 ---
+
 ¡Esperamos que disfrutes y aprendas mucho con estos ejercicios!
+
 ---
 
