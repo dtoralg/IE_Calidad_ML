@@ -54,8 +54,8 @@ Este repositorio está orientado a proporcionar ejercicios prácticos para el cu
 
 ## Licencia
 
-Este proyecto está bajo licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
-No está permitido su uso con fines comerciales.
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).  
+Puedes usar, copiar, modificar y distribuir este software libremente, siempre que mantengas el aviso de copyright original.
 
 ---
 
