@@ -1,0 +1,7 @@
+# Tabla de Atribuciones de los Datasets del Curso
+
+| Nombre del Dataset                                | Fuente / Autoría                        | URL de Referencia                                                                                          | Contexto de Uso en el Curso                                              |
+|---------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **SECOM Manufacturing Data Set**                  | UCI Machine Learning Repository         | [SECOM](https://archive.ics.uci.edu/ml/datasets/SECOM)                                                     | Evaluación de modelos robustos ante ruido (Tema 6, Ensemble)             |
+| **CMAPSS (Turbofan Engine Degradation)**          | NASA Ames Research Center               | [CMAPSS](https://data.nasa.gov/dataset/CMAPSSData/ff5v-kuh6)                                                | Predicción de RUL en mantenimiento predictivo                            |
+| **Datasets propios del curso**                    | Desarrollados por el autor del curso    | [Repositorio GitHub](https://github.com/dtoralg/IE_Calidad_ML) *(URL pública de algunos en preparación)*  | Usados en ejercicios prácticos de clasificación, regresión, visión e industrialización |
